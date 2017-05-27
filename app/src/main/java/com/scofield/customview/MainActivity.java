@@ -19,4 +19,7 @@ public class MainActivity extends AppCompatActivity {
     public void onRadianClick(View view) {
         startActivity(new Intent(this,RadianActivity.class));
     }
+    public void onCanvasClick(View view) {
+        startActivity(new Intent(this,CanvasActivity.class));
+    }
 }

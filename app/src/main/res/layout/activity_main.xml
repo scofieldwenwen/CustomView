@@ -21,4 +21,9 @@
     android:text="Radian"
     android:onClick="onRadianClick"
     android:layout_height="wrap_content"/>
+<Button
+    android:layout_width="match_parent"
+    android:text="Canvas"
+    android:onClick="onCanvasClick"
+    android:layout_height="wrap_content"/>
 </LinearLayout>

@@ -19,6 +19,8 @@
         </activity>
         <activity android:name=".RadianActivity">
         </activity>
+        <activity android:name=".CanvasActivity">
+        </activity>
     </application>
 
 </manifest>
